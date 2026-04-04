@@ -45,17 +45,8 @@ I'm a Junior React Native Developer at [TourRadar](https://www.tourradar.com) in
 
 ---
 
-## 🎲 Beyond the code
-
-- 🎲 Dungeon Master of **Vox'Tezzar** — a large homebrew D&D 5e campaign
-- 🎸 Bass player (Squier Affinity Jazz Bass)
-- 🌱 Vegan & passionate about cooking
-- 🧠 AI & local LLM enthusiast
-
----
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="www.linkedin.com/in/johannes-henz-9b50aa278">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <!-- Add more socials here -->
