@@ -28,11 +28,12 @@ I'm a Junior React Native Developer at [TourRadar](https://www.tourradar.com) in
 
 | Project | Description | Tech |
 |---|---|---|
-| [TourPlanner](https://github.com/JohannesHenz/TourPlanner) | Desktop tour planning application — SWEN 2 | Java |
-| [MonsterTCG](https://github.com/JohannesHenz/MonsterTCG) | Trading card game backend — SWEN | Java |
-| [TWMailer](https://github.com/JohannesHenz/TWMailer) | Custom mail server/client | C++ |
-| [VERTS](https://github.com/JohannesHenz/VERTS) | — | C++ |
-| [dotfiles](https://github.com/JohannesHenz/dotfiles) | My personal dev environment config | — |
+| [Document Management System](https://github.com/JohannesHenz/document-management-system) | Full-stack app to upload, search, rename and download documents, with CI and a one-command Docker setup | Spring Boot, React, PostgreSQL, Docker |
+| [MMAM](https://github.com/JohannesHenz/mmam-public) | Departure monitor for Vienna combining Wiener Linien and ÖBB realtime data, disruptions and weather on a map | Node.js, Express, PostgreSQL, Leaflet |
+| [MonsterTCG](https://github.com/JohannesHenz/MonsterTCG) | Trading card game backend with a hand-written HTTP server, no web framework | Java, PostgreSQL |
+| [UnityVoxel](https://github.com/JohannesHenz/UnityVoxel) | Voxel engine with chunk meshing and hidden-face culling | Unity, C# |
+| [RN Playground](https://github.com/JohannesHenz/RN-Playground) | Sandbox for React Native navigation, gestures and animations | React Native, Expo, TypeScript |
+| [Portfolio](https://github.com/JohannesHenz/Portfolio) | My personal website ([live](https://johanneshenz.github.io/Portfolio/)) | React, Tailwind CSS |
 
 ---
 
@@ -46,8 +47,10 @@ I'm a Junior React Native Developer at [TourRadar](https://www.tourradar.com) in
 ---
 
 <p align="center">
-  <a href="www.linkedin.com/in/johannes-henz-9b50aa278">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/johannes-henz-9b50aa278">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- Add more socials here -->
+  <a href="https://johanneshenz.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
