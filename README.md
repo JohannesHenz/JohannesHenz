@@ -1,6 +1,8 @@
 # Hey, I'm Johannes 👋
 
-I'm a Junior React Native Developer at [TourRadar](https://www.tourradar.com) in Vienna 🇦🇹, building mobile experiences for the world's largest multi-day tours marketplace. Currently finishing my Bachelor's at FH Technikum Wien.
+I'm a software engineer in Vienna 🇦🇹. Until July 2026 I was a Junior Software Engineer at [TourRadar](https://www.tourradar.com), building their React Native app in a five-person team.
+
+💼 **I'm currently looking for a new role as a software engineer.** Reach me at [johenz@protonmail.com](mailto:johenz@protonmail.com).
 
 ---
 
@@ -22,12 +24,11 @@ I'm a Junior React Native Developer at [TourRadar](https://www.tourradar.com) in
 
 ---
 
-## 🚀 What I'm up to
+## 🚀 Experience
 
-- 📱 Building the TourRadar mobile app with **React Native + Expo + TypeScript**
-- 🎓 Finishing my **Bachelor's thesis** at FH Technikum Wien
-- 📐 Deep-diving into **system design** & software architecture (BFF pattern, distributed systems, read replication)
-- 🤖 Experimenting with **local LLMs & AI tooling** on my RTX 4070 Ti
+- 📱 **TourRadar** (2025–2026): rebuilt the in-app inbox, built the user profile and the "Swipe & Go" feature, and raised frontend test coverage from about 15% to about 70% in a **React Native + Expo + TypeScript** app with a 4.7 App Store rating
+- 🎓 **Computer Science at FH Technikum Wien** (2021–2026): 148 of 180 ECTS, focused on Java and web technologies
+- 📐 Interested in **system design** and software architecture (BFF pattern, distributed systems, read replication)
 
 ---
 
