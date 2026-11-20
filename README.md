@@ -40,8 +40,6 @@ I'm a software engineer in Vienna 🇦🇹. Until July 2026 I was a Junior Softw
 | [MMAM](https://github.com/JohannesHenz/mmam-public) | Departure monitor for Vienna combining Wiener Linien and ÖBB realtime data, disruptions and weather on a map | Node.js, Express, PostgreSQL, Leaflet |
 | [MonsterTCG](https://github.com/JohannesHenz/MonsterTCG) | Trading card game backend with a hand-written HTTP server, no web framework | Java, PostgreSQL |
 | [Tenebris](https://github.com/JohannesHenz/Tenebris) | Two-player co-op horror game, team project; I built movement, local multiplayer and the noise system | Unity, C# |
-| [UnityVoxel](https://github.com/JohannesHenz/UnityVoxel) | Voxel engine with chunk meshing and hidden-face culling | Unity, C# |
-| [RN Playground](https://github.com/JohannesHenz/RN-Playground) | Sandbox for React Native navigation, gestures and animations | React Native, Expo, TypeScript |
 | [Portfolio](https://github.com/JohannesHenz/Portfolio) | My personal website ([live](https://johanneshenz.github.io/Portfolio/)) | React, Tailwind CSS |
 
 ---
