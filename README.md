@@ -47,7 +47,6 @@ I'm a software engineer in Vienna 🇦🇹. Until July 2026 I was a Junior Softw
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohannesHenz&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesHenz&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
